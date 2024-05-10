@@ -3,5 +3,5 @@
  
 [CISSP.pdf](https://github.com/git2018hub/CISSP/files/6606023/CISSP.pdf)
 
-https://www.lead4pass.com/cissp.html
+https://www.leads4pass.com/cissp.html
 
